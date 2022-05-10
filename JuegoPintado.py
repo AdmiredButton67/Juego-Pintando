@@ -7,6 +7,9 @@ Exercises
 3. Complete rectangle.
 4. Complete triangle.
 5. Add width parameter.
+
+Nombres: 
+Luis Armando Mandujano Chávez
 """
 
 from turtle import *
