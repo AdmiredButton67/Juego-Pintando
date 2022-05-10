@@ -8,8 +8,10 @@ Exercises
 4. Complete triangle.
 5. Add width parameter.
 
-Nombres: 
+Nombre: 
 Luis Armando Mandujano Chávez
+Matrícula:
+A01655899
 """
 
 from turtle import *
